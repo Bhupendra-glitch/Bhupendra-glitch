@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data science and Application**
 
-- 📫 How to reach me **bhupendrasahu132004@gmail.com**
+- 📫 How to reach me **bhupendraopensource@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
