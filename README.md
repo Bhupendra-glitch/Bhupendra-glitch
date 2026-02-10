@@ -1,3 +1,9 @@
+## Hi there 👋
+
+<img align="centre" alt="Banner" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Bhupendra Sahu</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupendra-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendra-glitch" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupendra-glitch" alt="bhupendra-glitch" /></a> </p>
@@ -44,3 +50,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupendra-glitch&show_icons=true&locale=en" alt="bhupendra-glitch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra-glitch&" alt="bhupendra-glitch" /></p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
+</p>
+
+
+Convert it into 1-screen minimalist
+
+Add Kaggle / LeetCode / Codeforces logos
+
+Animate skill icons
+
+Create ML Engineer or Researcher variant
+
+Just tell me what you want next 🚀📈
+
+
+
