@@ -64,15 +64,7 @@
 </p>
 
 
-Convert it into 1-screen minimalist
 
-Add Kaggle / LeetCode / Codeforces logos
-
-Animate skill icons
-
-Create ML Engineer or Researcher variant
-
-Just tell me what you want next 🚀📈
 
 
 
