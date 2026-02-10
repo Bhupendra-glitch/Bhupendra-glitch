@@ -67,13 +67,27 @@
 </p>
 
 
+<br>
 
-
- 
-
-
-
-
-
-
-
+<div align="center">
+  <div style="
+    max-width: 420px;
+    padding: 25px;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #0f2027, #203a43, #2c5364);
+    color: #8fffd1;
+    font-size: 16px;
+    line-height: 1.6;
+    box-shadow: 0 0 20px rgba(0, 255, 170, 0.15);
+  ">
+    <p style="font-size: 28px; margin: 0;">“</p>
+    <p>
+      Turning raw data into meaningful insights,<br>
+      and curiosity into impact.
+    </p>
+    <p style="font-size: 28px; margin: 0;">”</p>
+    <p style="margin-top: 15px; font-size: 14px; color: #a0ffd6;">
+      — Data Science Journey
+    </p>
+  </div>
+</div>
