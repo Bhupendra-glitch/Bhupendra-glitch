@@ -93,9 +93,15 @@
 </div>
 
 
-## 📊 Repository Language Stats
+<h2 align="center">📊 Github Stats</h2>
 
-## 🌐 Overall Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-glitch&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&cache_seconds=86400"/>
+
+![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/4-productive-time.svg)
+
 </p>
