@@ -91,3 +91,11 @@
     </p>
   </div>
 </div>
+
+
+## 📊 Repository Language Stats
+
+## 🌐 Overall Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-glitch&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css&cache_seconds=86400"/>
+</p>
