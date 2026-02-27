@@ -93,15 +93,40 @@
 </div>
 
 
-<h2 align="center">📊 Github Stats</h2>
+
+
+
+
+
+
+
+
+
+
+## 🔥 GitHub Streak (Overall Commits)
 
 <p align="center">
-
-![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/Bhupendra-glitch/Bhupendra-glitch/main/profile-summary-card-output/default/4-productive-time.svg)
-
+  <img src="https://streak-stats.demolab.com?user=Bhupendra-glitch&theme=tokyonight&hide_border=false"/>
 </p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-glitch&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Detailed GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupendra-glitch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupendra-glitch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhupendra-glitch&theme=tokyonight"/>
+</p>
+
+---
+
+
