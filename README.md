@@ -47,12 +47,31 @@
 
 ![echelon-data-quipo](https://github.com/user-attachments/assets/f198ac6a-e343-4679-a0d3-d295c277504d)
 
+## 🔥 GitHub Streak (Overall Commits)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhupendra-glitch&show_icons=true&locale=en&layout=compact" alt="bhupendra-glitch" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhupendra-glitch&theme=tokyonight&hide_border=false"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhupendra-glitch&show_icons=true&locale=en" alt="bhupendra-glitch" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhupendra-glitch&" alt="bhupendra-glitch" /></p>
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-glitch&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Detailed GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupendra-glitch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupendra-glitch&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhupendra-glitch&theme=tokyonight"/>
+</p>
+
+---
 
 ## 🐍 Contribution Activity
 
@@ -91,42 +110,5 @@
     </p>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-## 🔥 GitHub Streak (Overall Commits)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhupendra-glitch&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-glitch&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Detailed GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhupendra-glitch&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhupendra-glitch&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhupendra-glitch&theme=tokyonight"/>
-</p>
-
----
 
 
