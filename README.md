@@ -98,6 +98,8 @@
     font-size: 16px;
     line-height: 1.6;
     box-shadow: 0 0 20px rgba(0, 255, 170, 0.15);
+  
+    
   ">
     <p style="font-size: 28px; margin: 0;">“</p>
     <p>
@@ -112,5 +114,6 @@
 </div>
 
 ![blue](https://github.com/user-attachments/assets/2d385568-cc02-4ef5-bf87-68a3a8b6d6b4)
+
 
 
