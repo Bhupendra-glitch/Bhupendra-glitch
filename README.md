@@ -22,6 +22,8 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bhupendra-sahu](https://www.linkedin.com/in/bhupendra-sahu)
 
+- Portfolio https://portfolio-neon-pi-27.vercel.app/
+
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **bhupendrasahu132004@gmail.com**
